@@ -43,6 +43,4 @@ Localization in robotics refers to the process of determining the position and o
 
 ![Marker detection pipeline.](../figures/tracking_workflow.png){#fig:marker-detection}
 
-# Mentions
-
 # Citations
