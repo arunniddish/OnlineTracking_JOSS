@@ -4,7 +4,6 @@ clc;
 %[] Input video name for writing
 vid_name = 'demo_capture'; % Final video file name 
 
-
 %[] Initalize video object to write tracked video frames
 params.vwrite_tracked = VideoWriter(append(vid_name,'_gcf'),'MPEG-4');
 open(params.vwrite_tracked);
